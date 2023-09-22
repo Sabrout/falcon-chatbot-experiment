@@ -1,0 +1,43 @@
+Tuesday 25 April
+E
+User5
+Author
+Quand je clique sur translate dans FAQ, rien ne se passe.
+Translate English
+12:32 PM
+M
+Mathieu
+Bonjour Étienne. Nous allons tenter de reproduire et investiguer. Je vous tiens au courant.
+Translate English
+6:51 PM
+Wednesday 26 April
+M
+New feedback status
+En Discussion
+Friday 05 May
+M
+New feedback status
+🏁 Backlog
+M
+Mathieu
+Bonjour User5, après investigation il semble que quand certains textes sont trop longs, une erreur est générée car la traduction d'un bloc de texte trop long dysfonctionne. Nous sommes sur le sujet pour corriger le problème au plus vite.
+Translate English
+9:52 AM
+M
+New feedback status
+⛏️Envoyé En Dev
+Wednesday 10 May
+M
+Mathieu
+Bonjour User5, je vous confirme qu'il s'agit d'un problème de texte qui dépasse plusieurs dizaines de milliers de caractères. Nous allons mettre en place une limite à 40 000 caractères par article de FAQ pour éviter que le problème se reproduise sur de nouveaux articles. Cependant, si vous disposez actuellement d'articles FAQ supérieurs à ce nombre, nous vous conseillons de les scinder en 2 articles afin de permettre leur traduction. Cela améliorera également la lecture.
+Translate English
+9:56 AM
+Friday 26 May
+M
+Mathieu
+Bonjour User5, le problème a été résolu.
+Translate English
+12:17 PM
+M
+New feedback status
+✔️ Résolue

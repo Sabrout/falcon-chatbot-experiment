@@ -1,0 +1,43 @@
+VERSION: 2.31.2
+created: 28 mars 23
+
+
+Titre: Les nouveautés de Mars 2023 / Notifications Public Mode !
+
+-NEW ✨
+Notification Pop Up - Public Mode
+
+
+Grande avancée coté produit !
+
+Il est désormais possible d'afficher la release note sous forme de Pop Up au-dessus du Wigdet pour les utilisateurs en mode public. Ainsi, quand un admin publie une Release Note elle s'affichera maintenant auprès de tous les utilisateurs disposant du Widget.
+
+Il est également possible d'agrandir à présent les images pour pouvoir mieux visualiser leur contenu !
+
+
+De plus, un bouton "Traduire" est à présent affiché dans la Pop Up afin de permettre aux utilisateurs de traduire le texte affiché dans une Release Note. En tant qu'Admin vous vous assurez donc que tous vos utilisateurs pourront prendre connaissance de votre Release Note, peu importe la langue dans laquelle vous l'avez rédigé !
+
+
+
+- Analytics
+
+La partie "Top Pages" des Analytics a été retravaillée dans le but d'afficher la fin des URLs les plus vues dans le but de mieux reconnaitre les URL ciblées. De plus, au survol l'URL entière s'affiche pour l'admin.
+
+
+- DEBUG 🐛
+Corrections des Bugs
+
+La mise en production de la pop up Release Note avait généré un effet de bord de notification intempestive, ce problème a été résolu. Nous sommes désolés pour la gène occasionnée.
+
+
+De plus différents bugs ont été corrigés parmi lesquels
+
+Corrections & Modifications de différents Wordings (notamment dans les emails de Notifications)
+Correction de plusieurs bugs d'affichages sur les notifications (Superposition, sondages & Feedbacks, Doublons de notifications etc..)
+Correction du bug qui affichait l'outil ASANA comme Synchronisé pour les admins dans le Profile Setting alors que l'outil ASANA n'était pas synchronisé.
+
+
+- UPDATE 🛠
+Traduction
+
+Les boutons de Traduction dans le Widget ont été retravaillés pour qu'ils soient davantage visibles pour les utilisateurs.

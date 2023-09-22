@@ -1,0 +1,24 @@
+VERSION: 2.33.1
+created: 27 avr. 23
+tag: NEW ✨
+
+
+Titre: Identification de tous les utilisateurs du Widget !
+
+
+Grande avancée coté produit !
+
+
+
+Avec l’objectif d’offrir une expérience toujours meilleure aux utilisateurs finaux du Widget et aux Admins du Back Office, Weloop évolue et permet désormais d’identifier tous les utilisateurs disposant du Widget sur leurs postes de travail.
+
+
+
+En effet, les utilisateurs du Widget qui naviguent dans la homepage du Widget et consultent du contenu comme la FAQ ou la Release Note peuvent dorénavant être identifiés avec confiance.
+
+
+
+Techniquement, Weloop utilise la technologie de l’entreprise Fingerprint pour réaliser cette identification. Cette technologie respecte le cadre contractuel offert par Weloop (Respect RGPD, Données hébergées en Europe). Pour toute question, vous pouvez contacter votre CSM sur ce sujet.
+
+
+

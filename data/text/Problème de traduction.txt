@@ -1,0 +1,61 @@
+06 July 2022
+
+User: User3
+Author
+Bonjour,
+Je vous donne un exemple, ce sera plus simple à expliquer :
+L'utilisateur a son navigateur en anglais
+Il paramètre son weloop en chinois
+La traduction reste en anglais et ne passe pas en chinois
+Que ce soit la version originale ou traduite, il retrouve de l'anglais
+
+Admin: 
+3:50 PM
+Je précise mon feedback, cela ne se produit que sur la release. Le reste est ok
+
+Admin: 
+5:22 PM
+Victor
+ok Jean-Michel, on regarde ça et on revient vers vous
+
+11 July 2022
+
+User: Paseuth
+the message has been deleted
+Bonjour Jean-Michel, nous n'avons pas vu d'anomalie sur la traduction en chinois de la release note. Morgane prendra contact avec toi très rapidement pour organiser un point technique. Bonne journée !
+
+Admin: 
+10:34 AM
+P
+New feedback status
+En Recherche
+
+User: User4
+Salut, en fait il y a un genre de dysfonctionnement quand on change la langue de traduction après avoir traduit une première fois et sans recharger l'application. Par exemple, on traduit en anglais, puis on change de langue, lorsqu'on demande à avoir une nouvelle traduction, il y a un genre de cache qui laisse en anglais. En rechargeant l'application, la traduction est correcte. C'est un cas à la marge effectivement, je sais pas si ça doit être corrigé ou non
+
+Admin: 
+11:36 AM
+
+21 September 2022
+
+Admin: M
+New feedback status
+🏁 Backlog
+
+Thursday 16 March
+
+Admin: M
+New feedback status
+⛏️Envoyé En Dev
+
+Friday 26 May
+
+Admin: Mathieu
+Bonjour à tous, nous avons réalisé des Mises en Production avec amélioration de la traduction, et detection du langage navigateur pour faciliter la traduction. Les problèmes sont normalement résolus. Je cloture le ticket, et je réouvrirai si le problème revient. Dans ce cas, merci d'envoyer une impression écran ainsi que la configuration navigateur de l'utilisateur pour faciliter l'investigation. Bonee journée
+
+Admin: 
+12:20 PM
+
+Admin: M
+New feedback status
+✔️ Résolue"

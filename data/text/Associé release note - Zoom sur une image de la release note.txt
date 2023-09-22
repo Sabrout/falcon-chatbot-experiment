@@ -1,0 +1,44 @@
+30 September 2022
+S - User2 (Author)
+Bonjour,
+Lorsqu'un feedback est créé avec des images, on peut cliquer dessus pour les ouvrir en grand. Mais ce n'est pas le cas pour celles d'une release note.
+Serait-il possible de pouvoir cliquer dessus afin qu'elles s'agrandissent ?
+Merci
+
+
+
+2:46 PM
+M - Mathieu
+Bonjour User2, nous allons étudier cette demande.
+
+
+4:24 PM
+M - Mathieu
+New feedback status: En Discussion
+Wednesday 11 January
+J - J-Michel
+Des news sur le sujet ?
+
+
+3:43 PM
+M - Mathieu
+Bonjour User2, Jean-Michel, le sujet n'est pas dans le premier semestre de la Roadmap 2023. Je vous tiens au courant, quand le sujet sera positionné sur la Roadmap.
+
+
+4:21 PM
+J - J-Michel
+Merci Mathieu pour ta réponse
+
+
+4:30 PM
+Wednesday 10 May
+M - Mathieu
+New feedback status: ⛏️Envoyé En Dev
+Monday 29 May
+M - Mathieu
+Bonjour Jean Michel, User2, nous avons finalement pu intégrer cette feature. C'est livré en production depuis semaine dernière. Il est désormais possible d'agrandir une image RN en agrandissant le Widget !
+
+
+10:38 AM
+M - Mathieu
+New feedback status: ✔️ Résolue

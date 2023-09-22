@@ -1,0 +1,24 @@
+accelerate
+bitsandbytes
+bottle==0.12.19
+chromadb
+einops
+ipykernel==6.4.1
+ipywidgets
+langchain
+matplotlib
+numpy
+openai
+pandas
+pandoc
+paste==3.5.0
+scikit-learn
+scipy
+sentencepiece
+tiktoken
+torch --index-url https://download.pytorch.org/whl/nightly/cpu
+torchvision --index-url https://download.pytorch.org/whl/nightly/cpu
+torchaudio --index-url https://download.pytorch.org/whl/nightly/cpu
+tqdm
+transformers==4.30
+unstructured

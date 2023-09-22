@@ -1,0 +1,45 @@
+Titre : Problème de réception de notifications
+
+Vendredi 26 Mai
+
+[A] User1 (Author): Bonjour, je ne reçois pas de notifications, ni par e-mail ni sur le widget alors que j'ai bien tout activé dans les paramètres. Merci d'avance.
+
+(à 10:17 AM)
+
+[M] Mathieu: Bonjour User1, c'est étrange car je ne parviens pas à reproduire. Est-ce que vous avez bien paramétré les e-mails dans votre profil (en cliquant sur le rouage à côté de votre nom) pour le projet souhaité? Si vous êtes admin sur plusieurs projets, il faut bien paramétrer les notifications pour chaque projet.
+
+(à 10:39 AM)
+
+[M] Mathieu: Dans l'exemple, j'ai bien activé les e-mails sur mon projet Weloop, mais pas sur mon projet App1. Je ne reçois donc pas d'e-mails sur le projet App1. Pouvez-vous m'envoyer l'impression écran de votre côté pour vérifier votre paramétrage?
+
+(à 10:40 AM)
+
+[A] User1 (Author): Bonjour Mathieu, ci-joint un screenshot de mes paramètres, on m'a assigné un feedback mais je n'ai pas reçu la notification.
+
+(à 10:45 AM)
+
+[A] User1 (Author): J'ai également le problème sur la partie front office, j'ai activé le paramètre pour activer des notifications lorsque mon feedback change de statut mais je ne reçois pas de mails.
+
+(à 10:48 AM)
+
+[M] Mathieu: Bonjour User1, l'impression écran que vous avez fourni permet de sélectionner les notifications par défaut pour les nouveaux utilisateurs (c'est écrit dans le texte en gris en haut de page). Pour paramétrer vos propres notifications, vous devez cliquer sur votre photo de profil, puis sur l'onglet notifications comme dans mon impression écran ci-dessus.
+
+(à 11:52 AM)
+
+[M] Mathieu: Nouveau statut du feedback: En Discussion
+
+Lundi 29 Mai
+
+[M] Mathieu: Bonjour User1, pouvez-vous me confirmer que le problème est résolu?
+
+(à 9:36 AM)
+
+Mardi 30 Mai
+
+[A] User1 (Author): Bonjour Mathieu, je viens de retester et cette fois je reçois bien les e-mails de notifications lors de modifications apportées. Merci et bonne journée.
+
+(à 2:28 PM)
+
+Mercredi 07 Juin
+
+[M] Mathieu: Nouveau statut du feedback: ✔️ Résolue

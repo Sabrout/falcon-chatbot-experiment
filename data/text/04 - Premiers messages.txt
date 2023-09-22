@@ -1,0 +1,77 @@
+Message 1 - amélioration
+
+Hello la communauté,
+Et si on pouvait pinguer des personnes dans les loops @toi ? 👋Qu’en pensez-vous ?
+
+
+
+Message 2 - amélioration
+
+Serait-ce possible d’envoyer à tous mes utilisateurs une loop avec des formulaires ou sondages ? Et obtenir les retours sous forme de graphique ?
+
+
+
+Message 3 - bug
+
+Hey,
+Il y est indiqué 0% engaged mais quand je regarde dans les data le contraire est indiqué
+
+
+
+Message 4 - amélioration
+
+Hello,
+
+Dans la V1 on récupérait la version du navigateur, est-il possible de l'avoir dans la V2 ?
+
+
+
+
+
+Message 5 - amélioration
+
+Est-ce qu'il serait possible d'avoir accès à plus de langues (ou de gérer une table de langues) notamment pour le message d'acceuil, les tags et titres des colonnes du Kanban (correspondant au statut d'évolution des Loops) ? 
+
+Cette évolution serait plus pratique pour la gestion d'un utilisation en muli-pays.
+
+
+
+
+Message 6 - bug
+
+Bonjour,
+Je ne sais pas ce qui s'est passé, mais mon ticket a été 2 fois synchronisé avec Jira.
+J'ai supprimé l'un des 2 tickets sur Jira, pour autant je continue d'avoir les 2 petits losanges. Est-ce un bug ?
+
+
+
+
+Message 7 - bug
+
+Bonjour,
+L'une des personnes qui est très souvent amenée à créer des loops sur l'outil rencontre un problème avec la fonction de capture d'écran. Les captures d'écran que la personne effectue sont bleues (voir pj). Pouvez-vous regardez ? Merci
+
+
+
+
+Message 8 - support
+
+Bonjour, nous cherchons à configurer les SSO OpenID avec OKTA comme fournisseur de SSO. Malheureusement chaque tentative échoue avec le message 'Error On SSO Config Save".
+
+
+
+Message 9 - support
+
+Bonjour, j'ai réalisé un Feedback.
+
+Je souhaiterai pourvoir modifier les réponses disponible :) 
+
+Merci merci
+
+
+
+Message 10 - support
+
+Bonjour,
+Pouvez-vous donner l'accès de la vue Kanban à l'utilisateur Clément Dupont ? Merci,
+

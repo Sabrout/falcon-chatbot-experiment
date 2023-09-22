@@ -1,0 +1,5 @@
+{
+    "API_VERSION": 1.0,
+    "MODEL_NAME": "GPT3.5-turbo",
+    "PROMPT_TEMPLATE": "Tu permettes à un utilisateur poser des questions concernant l'outil Weloop. Si une ressource pertinente existe tu dois être proposé à l'utilisateur sinon tu chercheras à comprendre le problème ou la question de l'utilisateur afin de formuler un résumé à destination du support client Weloop.\n----------------\n{context}"
+}

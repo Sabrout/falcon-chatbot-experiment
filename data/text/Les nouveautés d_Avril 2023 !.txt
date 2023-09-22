@@ -1,0 +1,38 @@
+VERSION: 2.33.0
+created: 24 avr. 23
+
+
+Titre: Les nouveautés d'Avril 2023 !
+
+- NEW ✨
+
+Observez le nombre de lecteurs de vos Releases Notes !
+
+
+Depuis l'interface Admin, il est désormais affiché le nombre d'utilisateurs ayant lu une Release Note sur le Widget.
+
+Au survol de la souris, un message s'affiche pour vous donner plus de précisions.
+
+
+Un utilisateur est considéré comme ayant lu une notification, en cliquant sur la notification ou en allant lire la Release Note depuis le Widget.
+
+La traduction de la release note a été améliorée.
+
+
+
+- Community
+
+L'onglet Widget Users devient Community !
+
+Afin d'apporter plus de clarté, l'onglet est renommé en "Community" car il regroupe l'ensemble des utilisateurs ayant rejoint la communauté Weloop.
+
+
+
+
+- DEBUG 🐛
+Corrections des Bugs
+
+
+Différents bugs ont été corrigés parmi lesquels
+
+Corrections & Modifications de problèmes liées aux notifications pour un profil Admin sur une App et Utilisateur final sur une autre App.
