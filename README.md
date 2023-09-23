@@ -28,6 +28,7 @@ In this section, I explain and show the components of the project alongside the 
     │   └──logger.py             # Custom logger
     ├── Dockerfile               # Build a docker image of the project
     ├── README.md
+    ├── REPONSES.md              # Answers to the requested questions in the technical test
     └── requirements.txt         # Python environement packages
 
 
